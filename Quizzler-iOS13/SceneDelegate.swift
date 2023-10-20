@@ -1,10 +1,5 @@
-//
-//  QuizData.swift
-//  Quizzler-iOS13
-//
-//  Created by Kumar Aman on 20/10/23.
-//  Copyright © 2023 The App Brewery. All rights reserved.
-//
+//  QuizData.swift//  Created by Kumar Aman on 20/10/23.
+
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
